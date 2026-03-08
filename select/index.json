@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Pokemon Purple",
+  "base_artist": "レオタードブタ",
+  "createdAt": "2026-03-08T07:59:18.080266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pokémon",
+      "artist": "Neil Cicierega",
+      "has_synced": false,
+      "path": "select/01_Pokémon_Neil_Cicierega.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wild Pokémon Battle Theme",
+      "artist": "増田順一",
+      "has_synced": false,
+      "path": "select/02_Wild_Pokémon_Battle_Theme_増田順一.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wild Pokémon Battle Theme",
+      "artist": "Junichi Masuda",
+      "has_synced": false,
+      "path": "select/03_Wild_Pokémon_Battle_Theme_Junichi_Masuda.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Carry On (from the Original Motion Picture \"POKÉMON Detective Pikachu\")",
+      "artist": "Kygo feat. Rita Ora",
+      "has_synced": true,
+      "path": "select/04_Carry_On_(from_the_Original_Motion_Picture__POKÉMON_Detective_Pikachu_)_Kygo_feat._Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Carry On (from the Original Motion Picture \"POKÉMON Detective Pikachu\")",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/05_Carry_On_(from_the_Original_Motion_Picture__POKÉMON_Detective_Pikachu_)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Electric (Pokemon 25 Version)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/06_Electric_(Pokemon_25_Version)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pokémon (feat. Alfa)",
+      "artist": "Cristina D'Avena feat. Alfa",
+      "has_synced": true,
+      "path": "select/07_Pokémon_(feat._Alfa)_Cristina_D'Avena_feat._Alfa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pokémon",
+      "artist": "Cristina D'avena (ft. Alfa)",
+      "has_synced": true,
+      "path": "select/08_Pokémon_Cristina_D'avena_(ft._Alfa).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pokémon Theme",
+      "artist": "Jason Paige",
+      "has_synced": true,
+      "path": "select/09_Pokémon_Theme_Jason_Paige.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pokemon",
+      "artist": "Bob Rivers",
+      "has_synced": true,
+      "path": "select/10_Pokemon_Bob_Rivers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pokemon Purple",
+      "artist": "レオタードブタ",
+      "has_synced": false,
+      "path": "select/pl_01_Pokemon_Purple_レオタードブタ.txt"
+    }
+  ]
+}
